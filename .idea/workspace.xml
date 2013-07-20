@@ -7,11 +7,11 @@
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374350844087" ignored="false" />
+    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374352214242" ignored="false" />
     <file path="/boobs.css" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426706171" ignored="false" />
     <file path="/test.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426991003" ignored="false" />
     <file path="/grader.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373428570845" ignored="false" />
-    <file path="/index.html" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374352180026" ignored="false" />
+    <file path="/index.html" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374352547546" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="254" column="8" selection-start="10389" selection-end="10389" vertical-scroll-proportion="0.960373">
+            <state line="268" column="0" selection-start="10898" selection-end="10898" vertical-scroll-proportion="0.6433566">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -406,7 +406,11 @@
       <created>1374350846339</created>
       <updated>1374350846339</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added FAQ">
+      <created>1374352215952</created>
+      <updated>1374352215952</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -475,7 +479,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="more style" />
+    <option name="LAST_COMMIT_MESSAGE" value="added FAQ" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -493,6 +497,7 @@
     <MESSAGE value="changed port to 8080" />
     <MESSAGE value="started working on style" />
     <MESSAGE value="more style" />
+    <MESSAGE value="added FAQ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="254" column="8" selection-start="10389" selection-end="10389" vertical-scroll-proportion="0.960373">
+        <state line="268" column="0" selection-start="10898" selection-end="10898" vertical-scroll-proportion="0.6433566">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
