@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de989c80-4298-4078-a5db-aba40b4465d4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374349101807" ignored="false" />
+    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374349131131" ignored="false" />
     <file path="/boobs.css" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426706171" ignored="false" />
     <file path="/test.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426991003" ignored="false" />
     <file path="/grader.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373428570845" ignored="false" />
-    <file path="/index.html" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374213344497" ignored="false" />
+    <file path="/index.html" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374349739072" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +82,11 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="188" column="65" selection-start="6288" selection-end="6288" vertical-scroll-proportion="1.1689976">
-              <folding />
+            <state line="164" column="85" selection-start="6232" selection-end="6232" vertical-scroll-proportion="0.7027972">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -382,7 +386,11 @@
       <created>1374349106949</created>
       <updated>1374349106949</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="started working on style">
+      <created>1374349134977</created>
+      <updated>1374349134977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -451,7 +459,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed port to 8080" />
+    <option name="LAST_COMMIT_MESSAGE" value="started working on style" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -467,6 +475,7 @@
     <MESSAGE value="created intellij project" />
     <MESSAGE value="modified grader to work with urls in addition to files" />
     <MESSAGE value="changed port to 8080" />
+    <MESSAGE value="started working on style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,7 +505,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="151" column="99" selection-start="5336" selection-end="5336" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +536,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="8" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -591,8 +606,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="65" selection-start="6288" selection-end="6288" vertical-scroll-proportion="1.1689976">
-          <folding />
+        <state line="164" column="85" selection-start="6232" selection-end="6232" vertical-scroll-proportion="0.7027972">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
