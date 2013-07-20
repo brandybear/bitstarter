@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de989c80-4298-4078-a5db-aba40b4465d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374349131131" ignored="false" />
+    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374349785460" ignored="false" />
     <file path="/boobs.css" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426706171" ignored="false" />
     <file path="/test.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426991003" ignored="false" />
     <file path="/grader.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373428570845" ignored="false" />
@@ -390,7 +389,11 @@
       <created>1374349134977</created>
       <updated>1374349134977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="more style">
+      <created>1374349786676</created>
+      <updated>1374349786676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -459,7 +462,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="started working on style" />
+    <option name="LAST_COMMIT_MESSAGE" value="more style" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -476,6 +479,7 @@
     <MESSAGE value="modified grader to work with urls in addition to files" />
     <MESSAGE value="changed port to 8080" />
     <MESSAGE value="started working on style" />
+    <MESSAGE value="more style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
