@@ -6,7 +6,7 @@
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374542385711" ignored="false" />
+    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374542652573" ignored="false" />
     <file path="/boobs.css" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426706171" ignored="false" />
     <file path="/test.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426991003" ignored="false" />
     <file path="/grader.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373428570845" ignored="false" />
@@ -417,7 +417,11 @@
       <created>1374542389777</created>
       <updated>1374542389777</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="adding pix">
+      <created>1374542656174</created>
+      <updated>1374542656174</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
