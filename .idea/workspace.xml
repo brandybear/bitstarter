@@ -7,7 +7,7 @@
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374542661217" ignored="false" />
+    <file path="/Dummy.txt" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1374546892378" ignored="false" />
     <file path="/boobs.css" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426706171" ignored="false" />
     <file path="/test.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373426991003" ignored="false" />
     <file path="/grader.js" changelist="de989c80-4298-4078-a5db-aba40b4465d4" time="1373428570845" ignored="false" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="212" column="117" selection-start="8626" selection-end="8626" vertical-scroll-proportion="0.57459205">
+            <state line="143" column="114" selection-start="5225" selection-end="5225" vertical-scroll-proportion="0.57459205">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -137,8 +137,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="542" />
-    <option name="y" value="29" />
+    <option name="x" value="255" />
     <option name="width" value="1136" />
     <option name="height" value="1080" />
   </component>
@@ -426,11 +425,15 @@
       <created>1374542666326</created>
       <updated>1374542666326</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding pix">
+      <created>1374546894983</created>
+      <updated>1374546894983</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="542" y="29" width="1136" height="1080" extended-state="0" />
+    <frame x="255" y="0" width="1136" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -646,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="117" selection-start="8626" selection-end="8626" vertical-scroll-proportion="0.57459205">
+        <state line="143" column="114" selection-start="5225" selection-end="5225" vertical-scroll-proportion="0.57459205">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
